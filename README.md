@@ -8,16 +8,7 @@ Dining Concierge Chatbot is an AWS-based serverless cloud application that sends
 
   -Then it will search a dynamo DB database through Elastic Search to get random suggestions of restaurant IDs with this cuisine.
   
-  -AWS services used:
-    S3
-    API Gateway
-    Lambda
-    Lex
-    SQS
-    SNS
-    Elastic Search
-    DynamoDB
-    
+  -AWS services used: S3,API Gateway,Lambda,Lex,SQS,SNS,Elastic Search,DynamoDB
     
 - Architecture Diagram
 
