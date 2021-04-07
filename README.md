@@ -19,3 +19,6 @@ Dining Concierge Chatbot is an AWS-based serverless cloud application that sends
     DynamoDB
     
     
+- Architecture Diagram
+
+![Overview](overview.png)
