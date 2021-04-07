@@ -206,7 +206,7 @@ def yelp_api(request):
 
 	payload = ""
 	headers = {
-		'Authorization': "Bearer 6RGMMDt32XYksV-7zUBFrMPWQ1wmP5Lc-shxun5fd_tmH8_DFajMlB-0XAr7Yol16j6dFIqFEf11BPZHaAVYiGgPrFYgRD0Bqs4vexKbG8hc2JsPaOW9FxAPmZJAYHYx",
+		'Authorization': "Bearer --",
 		'cache-control': "no-cache"
 	}
 
