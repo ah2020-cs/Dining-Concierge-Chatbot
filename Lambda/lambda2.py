@@ -77,4 +77,5 @@ def pollSNS():
         else:
             print('Queue is empty')
             break
+		
 
